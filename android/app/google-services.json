@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945304130969",
+    "project_id": "sweetstore-5df68",
+    "storage_bucket": "sweetstore-5df68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945304130969:android:eeb4fc01f5f21173eb2f08",
+        "android_client_info": {
+          "package_name": "com.example.sweet_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945304130969-oldvt68iftuoeeia6k0r3s28mrij0rgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4PArhdfza-V4BhupXL1dK8-w6iLeSqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945304130969-oldvt68iftuoeeia6k0r3s28mrij0rgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
