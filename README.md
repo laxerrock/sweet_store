@@ -1,6 +1,6 @@
 # sweet_store
 
-Here you can buy sweets from anywhere in th country.
+Here you can buy sweets from anywhere in the country.
 
 ## Getting Started
 
